@@ -22,7 +22,7 @@ composent la ligne d'auteur, affichée au-dessus de la réponse seulement si
 ## Installation
 
 ```bash
-uv add --editable ../../packages/sites-conformes-faq
+uv add sites-conformes-faq
 ```
 
 ```python
